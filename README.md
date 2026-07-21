@@ -1,0 +1,2 @@
+# MINI-SHOP-BOT
+bot
